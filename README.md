@@ -1,8 +1,7 @@
 # Getting-Cleaning-Data-Project-Final
 
-==================================================================
 ## Creating the tidy_data.txt file
-==================================================================
+
 ### a- Data Preprocessing:
 
 1- Loading some packages for data reading and manipulation (plyr, dplyr, readr)
